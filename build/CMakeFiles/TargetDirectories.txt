@@ -1,0 +1,3 @@
+/data/telloproject-yoonyire/build/CMakeFiles/rebuild_cache.dir
+/data/telloproject-yoonyire/build/CMakeFiles/TelloPro.dir
+/data/telloproject-yoonyire/build/CMakeFiles/edit_cache.dir
